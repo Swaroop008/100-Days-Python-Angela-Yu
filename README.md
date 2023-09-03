@@ -11,5 +11,6 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 |------------|------------|------------------------------|
 | 01 | Band Name Generator   | [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%201/band_name_generator.py)        |
 | 02 | Tip Calculator |       [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/tree/master/Day%202)        |
-
+| 03 | Adventure |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/tree/master/Day%203)     |
+| 04 | Rock Paper Scissors |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/tree/master/Day%204)     |
 
