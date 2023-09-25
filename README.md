@@ -13,4 +13,4 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 | 02 | Tip Calculator |       [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/tree/master/Day%202/tip_calculator.py)        |
 | 03 | Adventure |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/tree/master/Day%203/ascii.py)     |
 | 04 | Rock Paper Scissors |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%204/rock_paper_scissors.py)     |
-
+| 05 | 2D Maze Solver |   [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) |
