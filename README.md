@@ -17,3 +17,4 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 | 06 | 2D Maze Solver |   [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) |
 | 07 | Hangman Game |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%207/main.py) |
 | 08 | Caeser Cipher |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%208/main.py) |
+| 09 | Silent Bidding |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%209/main.py) |
