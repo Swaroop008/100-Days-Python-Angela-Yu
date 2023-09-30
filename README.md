@@ -21,5 +21,5 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 | 10 | Simple Calculator |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%2010/main.py) |
 | 11 | BlackJack |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%2011/main.py) |
 | 12 | Guessing Number |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%2012/main.py) |
-| 12 | Debugging |  |
+| 13 | Debugging | N/A |
 
