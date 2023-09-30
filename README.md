@@ -18,3 +18,4 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 | 07 | Hangman Game |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%207/main.py) |
 | 08 | Caeser Cipher |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%208/main.py) |
 | 09 | Silent Bidding |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%209/main.py) |
+| 10 | Simple Calculator |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%2010/main.py) |
