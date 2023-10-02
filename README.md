@@ -23,4 +23,5 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 | 12 | Guessing Number |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%2012/main.py) |
 | 13 | Debugging | N/A |
 | 14 | Higher Lower |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%2014/main.py) |
+| 15 | Coffee Machine |     [Repo](https://github.com/Swaroop008/100-Days-Python-Angela-Yu/blob/master/Day%2015/main.py) |
 
